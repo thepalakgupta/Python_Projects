@@ -1,0 +1,14 @@
+Number Guessing Game (CLI)
+
+Description:
+This is a simple Python Number Guessing Game where the computer randomly selects a number between 1 and 100, and the user tries to guess it. 
+The program gives hints like "Too low" or "Too high" after each guess until the correct number is guessed.
+How It Works:
+The program uses the random module to pick a secret number.
+The user inputs guesses in a loop.
+After each guess, the program tells the user if the guess is too low, too high, or correct.
+It also keeps track of how many attempts were made.
+The game ends once the correct number is guessed.
+
+
+
