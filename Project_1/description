@@ -1,0 +1,13 @@
+ Topic: Calculator (CLI)
+   
+Description:
+This is a simple Command Line Calculator built using Python. 
+It allows the user to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. 
+The program continuously asks the user for inputs and operations until they choose to exit.
+  
+How It Works:
+The calculator shows a menu of operations.
+The user selects an operation (e.g., 1 for addition).
+The user inputs two numbers.
+The calculator performs the selected operation and displays the result.
+The loop continues until the user decides to quit.
