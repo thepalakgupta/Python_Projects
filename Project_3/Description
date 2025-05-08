@@ -1,0 +1,10 @@
+Dice Roller Simulator (CLI)
+
+Description:
+This is a Python-based Dice Roller Simulator that mimics the rolling of a six-sided die.
+Every time the user runs the command, a random number between 1 and 6 is generated and displayed. It allows the user to roll again or exit.
+How It Works:
+The program uses the random module to generate numbers from 1 to 6.
+After each roll, the result is displayed along with a simple ASCII art representing the die face.
+The user is then asked if they want to roll again or exit.
+The loop continues until the user chooses to quit.
