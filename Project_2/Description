@@ -1,0 +1,13 @@
+To-Do List App (CLI)
+
+Description:
+This Python program is a Command Line To-Do List App that helps users add, view, remove, and mark tasks as completed. It uses a loop-driven menu that allows users to interact with their to-do list until they decide to exit.
+How It Works:
+The program starts with an empty list of tasks.
+Each task is stored as a dictionary with a name and completion status.
+Users can:
+1.Add new tasks
+2.View all tasks
+3.Mark tasks as complete
+4.Delete tasks
+The program runs in a loop until the user chooses to exit.
