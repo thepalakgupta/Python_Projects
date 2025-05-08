@@ -1,0 +1,11 @@
+Currency Converter (CLI)
+Description:
+This is a Python-based Currency Converter that allows users to convert an amount from one currency to another using hardcoded exchange rates (for demo purposes).
+It supports multiple currency conversions like USD to INR, EUR to USD, etc.
+How It Works:
+The user is asked to input:
+The source currency
+The target currency
+The amount to convert
+The app uses a dictionary of exchange rates to perform conversion.
+
