@@ -1,0 +1,12 @@
+Weather App using OpenWeatherMap API (CLI)
+Description:
+This Python app allows users to fetch real-time weather data for any city using the OpenWeatherMap API. It displays temperature, humidity, weather description, and wind speed based on the city name input.
+How It Works:
+The user enters a city name.
+The app sends a request to the OpenWeatherMap API with that city.
+It parses the returned JSON data to extract:
+Temperature (°C)
+Weather description (e.g., "clear sky")
+Humidity
+Wind speed
+Displays this information in the terminal.
