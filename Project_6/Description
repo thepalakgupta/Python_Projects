@@ -1,0 +1,8 @@
+Countdown Timer (CLI)
+Description:
+This Python program acts as a countdown timer. The user enters the number of seconds (or minutes and seconds), and the timer counts down to zero, updating every second. When time runs out, it prints "Time's up!"
+How It Works:
+The user provides the countdown time in seconds.
+The program uses the time.sleep() function to pause for one second in each loop.
+It updates the display every second until the time reaches zero.
+The final message indicates the timer has ended.
