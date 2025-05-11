@@ -1,0 +1,8 @@
+QR Code Generator 
+Description:
+This Python script allows users to generate a QR code from any text or URL input using the qrcode library. The QR code is saved as an image file (.png), which can be scanned by any QR scanner.
+How It Works:
+User enters the text or URL to encode.
+The qrcode library converts the input into a matrix.
+A PNG image of the QR code is generated and saved.
+You can optionally open the image or customize it (size, colors).
